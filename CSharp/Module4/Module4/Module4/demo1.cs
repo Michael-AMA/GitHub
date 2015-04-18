@@ -35,7 +35,7 @@ namespace Module4
             #region Two Dimensional Array
             Console.WriteLine("\nTwo Dimensional Array");
             // two dimensional array
-            int[,] twoDArray = { { 3, 2, 8, 9 }, { 4, 5, 6, 1 }, { 5, 6, 0, 5 } };
+            int[,] twoDArray = { { 3, 2}, { 4, 5}, { 5, 6 } };
 
             for (int x = 0; x < twoDArray.GetLength(0); x++)
             {
