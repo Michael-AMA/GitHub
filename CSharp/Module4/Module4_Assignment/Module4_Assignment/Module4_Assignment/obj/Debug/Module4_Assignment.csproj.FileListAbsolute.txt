@@ -1,0 +1,2 @@
+C:\Users\michael\Documents\GitHub\CSharp_4\Module4_Assignment\Module4_Assignment\Module4_Assignment\bin\Debug\Module4_Assignment.exe.config
+C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4_Assignment\Module4_Assignment\Module4_Assignment\bin\Debug\Module4_Assignment.exe.config

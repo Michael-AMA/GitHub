@@ -1,0 +1,12 @@
+C:\Users\michael\Documents\GitHub\CSharp_4\Module4\Module4\bin\Debug\Module4.exe.config
+C:\Users\michael\Documents\GitHub\CSharp_4\Module4\Module4\obj\Debug\Module4.exe
+C:\Users\michael\Documents\GitHub\CSharp_4\Module4\Module4\obj\Debug\Module4.pdb
+C:\Users\michael\Documents\GitHub\CSharp_4\Module4\Module4\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\GitHub\CSharp_4\Module4\Module4\bin\Debug\Module4.exe
+C:\Users\michael\Documents\GitHub\CSharp_4\Module4\Module4\bin\Debug\Module4.pdb
+C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4\Module4\bin\Debug\Module4.exe.config
+C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4\Module4\obj\Debug\Module4.exe
+C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4\Module4\obj\Debug\Module4.pdb
+C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4\Module4\bin\Debug\Module4.exe
+C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4\Module4\bin\Debug\Module4.pdb
+C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4\Module4\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
