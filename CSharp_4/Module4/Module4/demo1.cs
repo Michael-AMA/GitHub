@@ -23,7 +23,7 @@ namespace Module4
         static void Main(string[] args)
         {
             #region Single Dimensional Array
-            // loop through single dimensional array
+            // single dimensional array
             Console.WriteLine("Single Dimensional Array");
             int[] intArray = { 5, 10, 1, 20, 25, 10 };
             for (int counter = 0; counter < intArray.Length; counter++)
