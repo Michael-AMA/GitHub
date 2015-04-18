@@ -8,65 +8,62 @@ namespace Module4_Assignment
 {
     public struct StudentInfo
     {
-        public string[] firstName;
-        public string[] lastName;
-        public string[] birthdate;
+        public string firstName;
+        public string lastName;
+        public string birthdate;
+        public StudentInfo(string fName, string lName, string bDate)
+        {
+            this.firstName = fName;
+            this.lastName = lName;
+            this.birthdate = bDate;
+        }
     }
     struct TeacherInfo
     {
-        public string[] firstName;
-        public string[] lastName;
+        public string tfirstName;
+        public string tlastName;
+        public TeacherInfo(string tfName, string tlName)
+        {
+            this.tfirstName = tfName;
+            this.tlastName = tlName;
+        }
     }
     struct CourseInfo
     {
-        public string[] courseName;
+        public string courseName;
+        public CourseInfo(string cName)
+        {
+            this.courseName = cName;
+        }
     }
     struct ProgramInfo
     {
-        public string[] programName;
-        public string[] degree;
+        public string programName;
+        public string degreeName;
+        public ProgramInfo(string pName, string dName)
+        {
+            this.programName = pName;
+            this.degreeName = dName;
+        }
     }
-    
     class Program
     {
-            // Get the students inforamtion
-            static void GetStudentInfo(out string firstName, out string lastName, out string birthday, out string teacher, out string course, out string program, out string degree)
-        {
-            Console.WriteLine("First Name: ");
-            firstName = Console.ReadLine();
-            Console.WriteLine("Last Name:");
-            lastName  = Console.ReadLine();
-            Console.WriteLine("Birthday: ");
-            birthday = Console.ReadLine();
-            Console.WriteLine("Teacher: ");
-            teacher = Console.ReadLine();
-            Console.WriteLine("Course");
-            course = Console.ReadLine();
-            Console.WriteLine("Program: ");
-            program = Console.ReadLine();
-            Console.WriteLine("Degree: ");
-            degree = Console.ReadLine();
-
-        }
-
         static void Main(string[] args)
         {
-            string firstName;
-            string lastName;
-            string birthday;
-            string teacher;
-            string course;
-            string program;
-            string degree;
-            GetStudentInfo(out firstName, out lastName, out birthday, out teacher, out course, out program, out degree);
-            StudentInfo studentsDetails = new StudentInfo();
-            studentsDetails.firstName = new string[] {firstName, "Mary", "April", "Mike", "Steve"};
-            studentsDetails.lastName = new string[] {lastName};
-            studentsDetails.birthdate = new string[] {birthday};
+            StudentInfo[] students = new StudentInfo[5];
+            students[0] = new StudentInfo("John", "Smith", "4/30/69");
+            TeacherInfo[] teachers = new TeacherInfo[5];
+            teachers[0] = new TeacherInfo("David", "Malon");
+            CourseInfo[] course = new CourseInfo[5];
+            course[0] = new CourseInfo("Intro to C#");
+            ProgramInfo[] program = new ProgramInfo[5];
+            program[0] = new ProgramInfo("C#", "Computer Science");
 
-            Console.WriteLine("{0} {1} Born on: {2}", studentsDetails.firstName[0], studentsDetails.lastName[0], studentsDetails.birthdate[0]);
-
-
+            Console.WriteLine("Student Details: {0} {1} Born on: {2}", students[0].firstName, students[0].lastName, students[0].birthdate);
+            Console.WriteLine("Teacher Details: {0} {1}", teachers[0].tfirstName, teachers[0].tlastName);
+            Console.WriteLine("Course Name: {0}", course[0].courseName);
+            Console.WriteLine("Program Name: {0}", program[0].programName);
+            Console.WriteLine("Degree Name: {0}", program[0].degreeName);
         }
     }
 }
