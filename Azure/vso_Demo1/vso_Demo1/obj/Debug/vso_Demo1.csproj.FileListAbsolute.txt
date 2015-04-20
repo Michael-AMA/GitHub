@@ -1,0 +1,6 @@
+C:\Users\michael\Documents\GitHub\Azure\vso_Demo1\vso_Demo1\bin\Debug\vso_Demo1.exe.config
+C:\Users\michael\Documents\GitHub\Azure\vso_Demo1\vso_Demo1\bin\Debug\vso_Demo1.exe
+C:\Users\michael\Documents\GitHub\Azure\vso_Demo1\vso_Demo1\bin\Debug\vso_Demo1.pdb
+C:\Users\michael\Documents\GitHub\Azure\vso_Demo1\vso_Demo1\obj\Debug\vso_Demo1.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\GitHub\Azure\vso_Demo1\vso_Demo1\obj\Debug\vso_Demo1.exe
+C:\Users\michael\Documents\GitHub\Azure\vso_Demo1\vso_Demo1\obj\Debug\vso_Demo1.pdb
