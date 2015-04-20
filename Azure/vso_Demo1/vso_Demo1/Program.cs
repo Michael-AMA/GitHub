@@ -11,7 +11,7 @@ namespace vso_Demo1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Print Name:");
+            Console.Write("Print Name:");
             string name = Console.ReadLine();
             Console.WriteLine("Hello, {0}.", name);
         }
