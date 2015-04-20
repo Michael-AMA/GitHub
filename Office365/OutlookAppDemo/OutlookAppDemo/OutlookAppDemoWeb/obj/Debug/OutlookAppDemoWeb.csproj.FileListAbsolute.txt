@@ -1,0 +1,6 @@
+C:\Users\michael\Documents\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\OutlookAppDemoWeb.dll.config
+C:\Users\michael\Documents\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\OutlookAppDemoWeb.dll
+C:\Users\michael\Documents\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\OutlookAppDemoWeb.pdb
+C:\Users\michael\Documents\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.dll
+C:\Users\michael\Documents\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.pdb

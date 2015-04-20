@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OutlookAppDemoManifest.xml
+C:\Users\michael\Documents\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemo\bin\Debug\OutlookAppDemo.debugapp
