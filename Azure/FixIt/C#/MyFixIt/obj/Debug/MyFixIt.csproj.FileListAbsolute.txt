@@ -1,0 +1,315 @@
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\MyFixIt.dll.config
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\MyFixIt.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\MyFixIt.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Antlr3.Runtime.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Autofac.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Autofac.Integration.Mvc.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\EntityFramework.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\EntityFramework.SqlServer.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\MyFixIt.Logging.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\MyFixIt.Persistence.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Newtonsoft.Json.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Owin.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.Helpers.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.Mvc.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.Optimization.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.Razor.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.WebPages.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.WebPages.Razor.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\WebGrease.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Data.OData.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Data.Edm.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Spatial.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\MyFixIt.Logging.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\MyFixIt.Persistence.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Autofac.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Autofac.Integration.Mvc.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.Helpers.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.Mvc.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.Optimization.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.Razor.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.WebPages.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Web.WebPages.Razor.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Newtonsoft.Json.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Antlr3.Runtime.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\EntityFramework.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\EntityFramework.SqlServer.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Data.OData.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\Microsoft.Data.Edm.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\System.Spatial.xml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\de\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\es\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\fr\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\it\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ja\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ko\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\ru\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\MyFixIt.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\MyFixIt.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\MyFixIt.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\MyFixIt.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\MyFixIt.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Content\bootstrap.css
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Content\bootstrap.min.css
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\favicon.ico
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\fonts\glyphicons-halflings-regular.svg
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Global.asax
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Content\Site.css
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\bootstrap.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\bootstrap.min.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\jquery-1.10.2.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\jquery-1.10.2.min.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\jquery.validate.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\jquery.validate.min.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\jquery.validate.unobtrusive.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\jquery.validate.unobtrusive.min.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\modernizr-2.6.2.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\respond.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\respond.min.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\_references.js
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\_ViewStart.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Shared\Error.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Shared\_Layout.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Home\Index.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Scripts\jquery-1.10.2.min.map
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\_ChangePasswordPartial.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\_ExternalLoginsListPartial.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\_RemoveAccountPartial.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\_SetPasswordPartial.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\ExternalLoginConfirmation.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\ExternalLoginFailure.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\Login.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\Manage.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Account\Register.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Shared\_LoginPartial.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Dashboard\Delete.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Dashboard\Details.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Dashboard\Edit.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Dashboard\Index.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Tasks\Create.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Tasks\Status.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Tasks\Success.cshtml
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\fonts\glyphicons-halflings-regular.woff
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\fonts\glyphicons-halflings-regular.ttf
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\fonts\glyphicons-halflings-regular.eot
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\packages.config
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Antlr3.Runtime.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Autofac.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Autofac.Integration.Mvc.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\EntityFramework.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\EntityFramework.SqlServer.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\MyFixIt.Logging.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\MyFixIt.Persistence.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Newtonsoft.Json.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Owin.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\System.Web.Helpers.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\System.Web.Mvc.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\System.Web.Optimization.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\System.Web.Razor.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\System.Web.WebPages.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\System.Web.WebPages.Razor.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\WebGrease.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Data.OData.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.Data.Edm.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\System.Spatial.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\MyFixIt.Logging.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\MyFixIt.Persistence.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Antlr3.Runtime.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\de\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\es\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\fr\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\it\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ja\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ko\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\ru\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Views\Web.config
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\PackageTmp\Web.config
+C:\Users\michael\Documents\Visual Studio 2013\Projects\FixIt\C#\MyFixIt\obj\Debug\Package\MyFixIt.SourceManifest.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\MyFixIt.dll.config
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\MyFixIt.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\MyFixIt.pdb
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Antlr3.Runtime.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Autofac.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Autofac.Integration.Mvc.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\EntityFramework.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\EntityFramework.SqlServer.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\MyFixIt.Logging.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\MyFixIt.Persistence.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Newtonsoft.Json.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Owin.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.Helpers.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.Mvc.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.Optimization.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.Razor.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.WebPages.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.WebPages.Razor.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\WebGrease.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Data.OData.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Data.Edm.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Spatial.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\MyFixIt.Logging.pdb
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\MyFixIt.Persistence.pdb
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Autofac.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Autofac.Integration.Mvc.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.Helpers.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.Mvc.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.Optimization.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.Razor.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.WebPages.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Web.WebPages.Razor.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Newtonsoft.Json.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Antlr3.Runtime.pdb
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\EntityFramework.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\EntityFramework.SqlServer.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Data.OData.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\Microsoft.Data.Edm.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\System.Spatial.xml
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\de\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\es\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\fr\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\it\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ja\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ko\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\ru\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\obj\Debug\MyFixIt.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\obj\Debug\MyFixIt.dll
+C:\Users\michael\Documents\GitHub\Azure\FixIt\C#\MyFixIt\obj\Debug\MyFixIt.pdb

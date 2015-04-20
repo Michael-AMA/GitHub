@@ -1,0 +1,6 @@
+C:\Users\michael\Documents\GitHub\Azure\mod_2_demo\mod_2_demo\bin\Debug\mod_2_demo.exe.config
+C:\Users\michael\Documents\GitHub\Azure\mod_2_demo\mod_2_demo\obj\Debug\mod_2_demo.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\GitHub\Azure\mod_2_demo\mod_2_demo\bin\Debug\mod_2_demo.exe
+C:\Users\michael\Documents\GitHub\Azure\mod_2_demo\mod_2_demo\bin\Debug\mod_2_demo.pdb
+C:\Users\michael\Documents\GitHub\Azure\mod_2_demo\mod_2_demo\obj\Debug\mod_2_demo.exe
+C:\Users\michael\Documents\GitHub\Azure\mod_2_demo\mod_2_demo\obj\Debug\mod_2_demo.pdb
