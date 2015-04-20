@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod_2_demo", "mod_2_demo\mod_2_demo.csproj", "{20F80498-C326-4F93-A74A-28A6068052CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Automation", "Automation", "{1E60D410-3BAA-4BF8-9AF6-2E08D0B55F16}"
+	ProjectSection(SolutionItems) = preProject
+		Automation\Test-AzureScript.ps1 = Automation\Test-AzureScript.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F80498-C326-4F93-A74A-28A6068052CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F80498-C326-4F93-A74A-28A6068052CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F80498-C326-4F93-A74A-28A6068052CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F80498-C326-4F93-A74A-28A6068052CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
