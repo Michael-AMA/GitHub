@@ -10,6 +10,7 @@ namespace vso_Demo1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World.");
         }
     }
 }
