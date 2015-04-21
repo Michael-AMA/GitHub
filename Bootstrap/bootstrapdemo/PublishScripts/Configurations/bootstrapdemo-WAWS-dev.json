@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "bootstrapdemo4312",
+            "location": "West US"
+        },
+        "databases": [
+            {
+                "connectionStringName": "defaultConnection",
+                "databaseName": "bootstrapdemo4312_db",
+                "serverName": "bootstrapdemo",
+                "user": "bsdemo",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "West US"
+            }
+        ]
+    }
+}

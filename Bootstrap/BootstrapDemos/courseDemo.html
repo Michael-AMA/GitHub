@@ -7,9 +7,25 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-xs-6 col-md-4"><h3>First</h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget nisl nec mauris blandit malesuada. Aliquam eros sapien, porta in mi quis, blandit auctor dolor. Donec nec lectus tincidunt, venenatis mauris nec, vehicula ipsum. In mollis ante eget finibus molestie.</div>
-            <div class="col-xs-6 col-md-4"><h3>Second</h3>Vestibulum id luctus mauris. Donec tempor tellus in ornare aliquet. Nam luctus magna at congue lacinia. Pellentesque rhoncus sodales nibh at hendrerit. Donec id euismod arcu, in cursus urna. Curabitur nunc sem, rutrum non aliquet ac, lobortis non nunc.</div>
-            <div class="col-xs-12 col-md-4"><h3>Third</h3>Fusce dui ante, aliquet eu luctus aliquet, tristique nec lorem. Praesent molestie urna quis leo mollis, ut convallis odio efficitur. Nam vel tempus massa. </div>
+            <div class="col-xs-6 col-md-3 col-md-offset-2">
+                <h3>First Column With Nest</h3>
+                <div class="row">
+                    <!-- 12 brand new columns -->
+                    <div class="col-md-5 col-md-offset-1"><h4>First Nest</h4></div>
+                    <div class="col-md-5 col-md-offset-1"><h4>Second Nest</h4></div>
+                    <div class="row">
+                        <!-- 12 brand new columns -->
+                        <div class="col-md-6"><h5>Vestibulum id luctus mauris. Donec tempor tellus in ornare aliquet. Nam luctus magna at congue lacinia.</h5></div>
+                        <div class="col-md-6"><h5>Fusce dui ante, aliquet eu luctus aliquet, tristique nec lorem. Praesent molestie urna quis leo mollis, ut convallis odio efficitur.</h5></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-4 col-md-6">
+                <h3>Second Coumn with no Nest</h3>
+                <div class="col-mid-12"><h6>Vestibulum id luctus mauris. Donec tempor tellus in ornare aliquet. Nam luctus magna at congue lacinia. Pellentesque rhoncus sodales nibh at hendrerit. Donec id euismod arcu, in cursus urna. Curabitur nunc sem, rutrum non aliquet ac, lobortis non nunc.</h6></div>
+                <div class="col-mid-8 col-md-offset-4"><h3><strong>Hello, World!!!!</strong></h3></div>
+            </div>
+            <div class="col-md-12"><h3>Third</h3>Fusce dui ante, aliquet eu luctus aliquet, tristique nec lorem. Praesent molestie urna quis leo mollis, ut convallis odio efficitur. Nam vel tempus massa.</div>
         </div>
     </div>
 

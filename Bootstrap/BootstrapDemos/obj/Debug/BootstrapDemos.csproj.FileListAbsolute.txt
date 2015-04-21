@@ -4,3 +4,9 @@ C:\Users\joebo\Documents\Visual Studio 2013\Projects\edx Bootstrap\BootstrapDemo
 C:\Users\joebo\Documents\Visual Studio 2013\Projects\edx Bootstrap\BootstrapDemos\obj\Debug\BootstrapDemos.csprojResolveAssemblyReference.cache
 C:\Users\joebo\Documents\Visual Studio 2013\Projects\edx Bootstrap\BootstrapDemos\obj\Debug\BootstrapDemos.dll
 C:\Users\joebo\Documents\Visual Studio 2013\Projects\edx Bootstrap\BootstrapDemos\obj\Debug\BootstrapDemos.pdb
+C:\Users\michael\Documents\GitHub\Bootstrap\BootstrapDemos\bin\BootstrapDemos.dll.config
+C:\Users\michael\Documents\GitHub\Bootstrap\BootstrapDemos\bin\BootstrapDemos.dll
+C:\Users\michael\Documents\GitHub\Bootstrap\BootstrapDemos\bin\BootstrapDemos.pdb
+C:\Users\michael\Documents\GitHub\Bootstrap\BootstrapDemos\obj\Debug\BootstrapDemos.csprojResolveAssemblyReference.cache
+C:\Users\michael\Documents\GitHub\Bootstrap\BootstrapDemos\obj\Debug\BootstrapDemos.dll
+C:\Users\michael\Documents\GitHub\Bootstrap\BootstrapDemos\obj\Debug\BootstrapDemos.pdb
