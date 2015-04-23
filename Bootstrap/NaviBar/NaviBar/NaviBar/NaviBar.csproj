@@ -73,6 +73,7 @@
     <Content Include="Icon.png" />
     <Content Include="index.html" />
     <Content Include="NaviBar.html" />
+    <Content Include="NaviBar2.html" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
