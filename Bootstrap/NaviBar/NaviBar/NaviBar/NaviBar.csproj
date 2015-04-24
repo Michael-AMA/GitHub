@@ -65,12 +65,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="carousel.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Icon.png" />
+    <Content Include="accordion.html" />
+    <Content Include="scrollspy.html" />
+    <Content Include="tabs.html" />
     <Content Include="index.html" />
     <Content Include="NaviBar.html" />
     <Content Include="NaviBar2.html" />
