@@ -70,7 +70,8 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="forms.html" />
+    <Content Include="modalForm.html" />
+    <Content Include="pageForms.html" />
     <Content Include="Icon.png" />
     <Content Include="index.html" />
     <Content Include="packages.config" />
