@@ -4,3 +4,9 @@ C:\Users\michael\Documents\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\bin\NaviBar.
 C:\Users\michael\Documents\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\obj\Debug\NaviBar.csprojResolveAssemblyReference.cache
 C:\Users\michael\Documents\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\obj\Debug\NaviBar.dll
 C:\Users\michael\Documents\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\obj\Debug\NaviBar.pdb
+C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\bin\NaviBar.dll.config
+C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\bin\NaviBar.dll
+C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\bin\NaviBar.pdb
+C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\obj\Debug\NaviBar.csprojResolveAssemblyReference.cache
+C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\obj\Debug\NaviBar.dll
+C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\NaviBar\NaviBar\NaviBar\obj\Debug\NaviBar.pdb
