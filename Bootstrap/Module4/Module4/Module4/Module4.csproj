@@ -70,8 +70,9 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Confirm.html" />
     <Content Include="modalForm.html" />
-    <Content Include="pageForms.html" />
+    <Content Include="pageForm.html" />
     <Content Include="Icon.png" />
     <Content Include="index.html" />
     <Content Include="packages.config" />
@@ -82,6 +83,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap.css.map" />
     <None Include="Scripts\jquery-2.1.3.intellisense.js" />
+    <Content Include="peerReview.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-2.1.3.js" />
