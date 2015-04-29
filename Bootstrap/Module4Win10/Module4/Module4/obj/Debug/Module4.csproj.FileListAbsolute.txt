@@ -4,3 +4,9 @@ C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\Module4\Module4\Module4\bin\Mod
 C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\Module4\Module4\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache
 C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\Module4\Module4\Module4\obj\Debug\Module4.dll
 C:\Users\joebo\Documents\GitHub\GitHub\Bootstrap\Module4\Module4\Module4\obj\Debug\Module4.pdb
+C:\Repo\GitHub\Bootstrap\Module4Win10\Module4\Module4\bin\Module4.dll.config
+C:\Repo\GitHub\Bootstrap\Module4Win10\Module4\Module4\bin\Module4.dll
+C:\Repo\GitHub\Bootstrap\Module4Win10\Module4\Module4\bin\Module4.pdb
+C:\Repo\GitHub\Bootstrap\Module4Win10\Module4\Module4\obj\Debug\Module4.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\Bootstrap\Module4Win10\Module4\Module4\obj\Debug\Module4.dll
+C:\Repo\GitHub\Bootstrap\Module4Win10\Module4\Module4\obj\Debug\Module4.pdb
