@@ -4,3 +4,11 @@ C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\O
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.csprojResolveAssemblyReference.cache
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.dll
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.pdb
+C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.Office365.Discovery.dll
+C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.Office365.OAuth.dll
+C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.Office365.OAuth.Web.dll
+C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Newtonsoft.Json.dll
+C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Newtonsoft.Json.xml
