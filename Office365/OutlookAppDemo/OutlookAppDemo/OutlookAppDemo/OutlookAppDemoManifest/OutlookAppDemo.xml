@@ -5,8 +5,8 @@
   <Version>1.0.0.0</Version>
   <ProviderName>[Provider name]</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Outlook App Demo" />
-  <Description DefaultValue="A sample outlook App."/>
+  <DisplayName DefaultValue="Outlook App Demo Test" />
+  <Description DefaultValue="A sample outlook App Test."/>
   <Capabilities>
     <Capability Name="Mailbox" />
   </Capabilities>
