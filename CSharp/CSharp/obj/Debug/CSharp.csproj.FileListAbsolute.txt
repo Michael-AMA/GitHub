@@ -7,3 +7,9 @@ c:\users\michael\documents\visual studio 2013\Projects\CSharp\CSharp\obj\Debug\C
 C:\Users\joebo\Documents\Visual Studio 2013\Projects\Edx_CSharp\CSharp\bin\Debug\CSharp.exe.config
 C:\Users\joebo\Documents\Visual Studio 2013\Projects\Edx_CSharp\CSharp\obj\Debug\CSharp.exe
 C:\Users\joebo\Documents\Visual Studio 2013\Projects\Edx_CSharp\CSharp\obj\Debug\CSharp.pdb
+C:\Users\joebo\Documents\GitHub\GitHub\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\joebo\Documents\GitHub\GitHub\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\joebo\Documents\GitHub\GitHub\CSharp\CSharp\obj\Debug\CSharp.pdb
+C:\Users\joebo\Documents\GitHub\GitHub\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\joebo\Documents\GitHub\GitHub\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\joebo\Documents\GitHub\GitHub\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
