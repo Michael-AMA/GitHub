@@ -1,0 +1,6 @@
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\StaticClassDemo\bin\StaticClassDemo.dll.config
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\StaticClassDemo\bin\StaticClassDemo.dll
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\StaticClassDemo\bin\StaticClassDemo.pdb
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\StaticClassDemo\obj\Debug\StaticClassDemo.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\StaticClassDemo\obj\Debug\StaticClassDemo.dll
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\StaticClassDemo\obj\Debug\StaticClassDemo.pdb

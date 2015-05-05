@@ -1,1 +1,7 @@
 C:\Users\joebo\Documents\GitHub\GitHub\CSharp\Module5\Module5Demos\introDemo\bin\Debug\introDemo.exe.config
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\introDemo\bin\Debug\introDemo.exe.config
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\introDemo\obj\Debug\introDemo.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\introDemo\bin\Debug\introDemo.exe
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\introDemo\bin\Debug\introDemo.pdb
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\introDemo\obj\Debug\introDemo.exe
+C:\Repo\GitHub\CSharp\Module5\Module5Demos\introDemo\obj\Debug\introDemo.pdb
