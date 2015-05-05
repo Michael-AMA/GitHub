@@ -4,6 +4,14 @@ C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\O
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.csprojResolveAssemblyReference.cache
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.dll
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.pdb
+<<<<<<< HEAD
+C:\Repo\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\OutlookAppDemoWeb.dll.config
+C:\Repo\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\OutlookAppDemoWeb.dll
+C:\Repo\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\OutlookAppDemoWeb.pdb
+C:\Repo\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.dll
+C:\Repo\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\obj\Debug\OutlookAppDemoWeb.pdb
+=======
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.Office365.Discovery.dll
@@ -12,3 +20,4 @@ C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\O
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Newtonsoft.Json.dll
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
 C:\Users\joebo\Documents\GitHub\GitHub\Office365\OutlookAppDemo\OutlookAppDemo\OutlookAppDemoWeb\bin\Newtonsoft.Json.xml
+>>>>>>> 3fbf72ed464fa30105756aa7350790b731a27e75
