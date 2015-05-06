@@ -5,3 +5,6 @@ C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4_Assignment\Module4_Assi
 C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4_Assignment\Module4_Assignment\Module4_Assignment\bin\Debug\Module4_Assignment.pdb
 C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4_Assignment\Module4_Assignment\Module4_Assignment\obj\Debug\Module4_Assignment.exe
 C:\Users\michael\Documents\GitHub\CSharp\Module4\Module4_Assignment\Module4_Assignment\Module4_Assignment\obj\Debug\Module4_Assignment.pdb
+C:\Repo\GitHub\CSharp\Module4\Module4_Assignment\Module4_Assignment\Module4_Assignment\bin\Debug\Module4_Assignment.exe.config
+C:\Repo\GitHub\CSharp\Module4\Module4_Assignment\Module4_Assignment\Module4_Assignment\obj\Debug\Module4_Assignment.exe
+C:\Repo\GitHub\CSharp\Module4\Module4_Assignment\Module4_Assignment\Module4_Assignment\obj\Debug\Module4_Assignment.pdb
