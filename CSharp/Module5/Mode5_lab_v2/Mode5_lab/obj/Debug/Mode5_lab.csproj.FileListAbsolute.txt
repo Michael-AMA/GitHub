@@ -1,0 +1,12 @@
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab\Mode5_lab\bin\Debug\Mode5_lab.exe.config
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab\Mode5_lab\bin\Debug\Mode5_lab.exe
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab\Mode5_lab\bin\Debug\Mode5_lab.pdb
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab\Mode5_lab\obj\Debug\Mode5_lab.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab\Mode5_lab\obj\Debug\Mode5_lab.exe
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab\Mode5_lab\obj\Debug\Mode5_lab.pdb
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab_v2\Mode5_lab\bin\Debug\Mode5_lab.exe.config
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab_v2\Mode5_lab\obj\Debug\Mode5_lab.exe
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab_v2\Mode5_lab\obj\Debug\Mode5_lab.pdb
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab_v2\Mode5_lab\obj\Debug\Mode5_lab.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab_v2\Mode5_lab\bin\Debug\Mode5_lab.exe
+C:\Repo\GitHub\CSharp\Module5\Mode5_lab_v2\Mode5_lab\bin\Debug\Mode5_lab.pdb
