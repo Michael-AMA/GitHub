@@ -21,7 +21,7 @@ namespace Mode5_lab
             students[1].StudentName = "student 2";
             students[2].StudentName = "student 3";
             UProgram.Degree.Course.Teacher[] TeacherName = new UProgram.Degree.Course.Teacher[3];
-            TeacherName[0].TeacherName = "Pro. O'Brien";
+            TeacherName[0].TeacherName = "Professor O'Brien";
             UProgram.Degree.Course.Teacher.TeacherAssistant[] TAsName = new UProgram.Degree.Course.Teacher.TeacherAssistant[3];
             TAsName[0].TAName = "Mike Jones";
 
