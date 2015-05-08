@@ -14,6 +14,10 @@ namespace DemoProjects
             myManager.Login();
             myManager.Hire();
 
+            Customer newCustomer = new Customer();
+            newCustomer.AddPoints(50);
+            
+
         }
     }
 }
