@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace mod6_assignment
 {
-    abstract class Person
+    abstract class Person : Course
     {
         private string _firstName;
         private string _lastName;

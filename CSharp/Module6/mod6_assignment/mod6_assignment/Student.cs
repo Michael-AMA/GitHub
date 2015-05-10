@@ -14,10 +14,8 @@ namespace mod6_assignment
             string answer = Console.ReadLine();
             return Convert.ToInt32(answer);
         }
-
         private int _studentID;
         private string _house;
-        
 
         public int StudentID
         {
