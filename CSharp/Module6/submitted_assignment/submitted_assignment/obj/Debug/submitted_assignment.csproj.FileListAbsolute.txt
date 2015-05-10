@@ -1,0 +1,6 @@
+C:\Repo\GitHub\CSharp\Module6\submitted_assignment\submitted_assignment\bin\Debug\submitted_assignment.exe.config
+C:\Repo\GitHub\CSharp\Module6\submitted_assignment\submitted_assignment\bin\Debug\submitted_assignment.exe
+C:\Repo\GitHub\CSharp\Module6\submitted_assignment\submitted_assignment\bin\Debug\submitted_assignment.pdb
+C:\Repo\GitHub\CSharp\Module6\submitted_assignment\submitted_assignment\obj\Debug\submitted_assignment.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\CSharp\Module6\submitted_assignment\submitted_assignment\obj\Debug\submitted_assignment.exe
+C:\Repo\GitHub\CSharp\Module6\submitted_assignment\submitted_assignment\obj\Debug\submitted_assignment.pdb

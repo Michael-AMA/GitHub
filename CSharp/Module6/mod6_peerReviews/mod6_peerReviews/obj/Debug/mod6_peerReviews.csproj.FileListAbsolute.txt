@@ -1,0 +1,5 @@
+C:\Repo\GitHub\CSharp\Module6\mod6_peerReviews\mod6_peerReviews\bin\Debug\mod6_peerReviews.exe.config
+C:\Repo\GitHub\CSharp\Module6\mod6_peerReviews\mod6_peerReviews\bin\Debug\mod6_peerReviews.exe
+C:\Repo\GitHub\CSharp\Module6\mod6_peerReviews\mod6_peerReviews\bin\Debug\mod6_peerReviews.pdb
+C:\Repo\GitHub\CSharp\Module6\mod6_peerReviews\mod6_peerReviews\obj\Debug\mod6_peerReviews.exe
+C:\Repo\GitHub\CSharp\Module6\mod6_peerReviews\mod6_peerReviews\obj\Debug\mod6_peerReviews.pdb
