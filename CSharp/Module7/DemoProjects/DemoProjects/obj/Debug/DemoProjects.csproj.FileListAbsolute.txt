@@ -1,0 +1,6 @@
+C:\Repo\GitHub\CSharp\Module7\DemoProjects\DemoProjects\bin\Debug\DemoProjects.exe.config
+C:\Repo\GitHub\CSharp\Module7\DemoProjects\DemoProjects\obj\Debug\DemoProjects.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\CSharp\Module7\DemoProjects\DemoProjects\bin\Debug\DemoProjects.exe
+C:\Repo\GitHub\CSharp\Module7\DemoProjects\DemoProjects\bin\Debug\DemoProjects.pdb
+C:\Repo\GitHub\CSharp\Module7\DemoProjects\DemoProjects\obj\Debug\DemoProjects.exe
+C:\Repo\GitHub\CSharp\Module7\DemoProjects\DemoProjects\obj\Debug\DemoProjects.pdb

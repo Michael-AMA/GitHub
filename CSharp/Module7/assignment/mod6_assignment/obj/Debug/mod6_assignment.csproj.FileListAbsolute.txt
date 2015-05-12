@@ -1,0 +1,10 @@
+C:\Repo\GitHub\CSharp\Module6\mod6_assignment\mod6_assignment\bin\Debug\mod6_assignment.exe.config
+C:\Repo\GitHub\CSharp\Module6\mod6_assignment\mod6_assignment\obj\Debug\mod6_assignment.csprojResolveAssemblyReference.cache
+C:\Repo\GitHub\CSharp\Module6\mod6_assignment\mod6_assignment\bin\Debug\mod6_assignment.exe
+C:\Repo\GitHub\CSharp\Module6\mod6_assignment\mod6_assignment\bin\Debug\mod6_assignment.pdb
+C:\Repo\GitHub\CSharp\Module6\mod6_assignment\mod6_assignment\obj\Debug\mod6_assignment.exe
+C:\Repo\GitHub\CSharp\Module6\mod6_assignment\mod6_assignment\obj\Debug\mod6_assignment.pdb
+C:\Repo\GitHub\CSharp\Module7\assignment\mod6_assignment\bin\Debug\mod6_assignment.exe.config
+C:\Repo\GitHub\CSharp\Module7\assignment\mod6_assignment\obj\Debug\mod6_assignment.exe
+C:\Repo\GitHub\CSharp\Module7\assignment\mod6_assignment\obj\Debug\mod6_assignment.pdb
+C:\Repo\GitHub\CSharp\Module7\assignment\mod6_assignment\obj\Debug\mod6_assignment.csprojResolveAssemblyReference.cache
